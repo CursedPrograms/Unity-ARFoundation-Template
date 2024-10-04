@@ -1,2 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+*.json linguist-vendored=false
+*.json linguist-generated=false
+*.json linguist-documentation=false
+*.json linguist-detectable=true
+
+*.txt linguist-vendored=false
+*.txt linguist-generated=false
+*.txt linguist-documentation=false
+*.txt linguist-detectable=true
