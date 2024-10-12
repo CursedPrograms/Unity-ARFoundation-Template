@@ -16,6 +16,8 @@
 
 # ARCore-Template
 
+https://github.com/CursedPrograms/Augmented-Reality-Resources
+
 [ARCore](https://developers.google.com/ar)
 
 <br>
